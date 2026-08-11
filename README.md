@@ -1,6 +1,6 @@
 # Didier Martial ALLOU
 
-##Bioinformaticien | Technicien informatique N1/N2 | Réseaux & systèmes | Microsoft 365 | Automatisation | Data & Health IT
+## Bioinformaticien | Technicien informatique N1/N2 | Réseaux & systèmes | Microsoft 365 | Automatisation | Data & Health IT
 
 Montréal, Québec, Canada
 
